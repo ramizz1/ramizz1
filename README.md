@@ -1,14 +1,5 @@
 # Cybersecurity & Full-Stack Developer
 ---
-
-## 🧩 Tech Identity
-
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.google.com/search?q=cybersecurity)
-[![Pentester](https://img.shields.io/badge/Pentester-000000?style=for-the-badge&logo=tryhackme&logoColor=red)](https://www.google.com/search?q=pentesting)
-[![Full Stack](https://img.shields.io/badge/Full--Stack%20Dev-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://www.google.com/search?q=full+stack+development)
-
----
-
 ## 👨‍💻 About Me
 
 <p>
