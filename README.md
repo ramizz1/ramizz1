@@ -29,7 +29,7 @@ Interested in automation, security tools, and scalable systems
 
 ---
 
-## 🚀 Projects
+## 🚀Main Projects
 
 <p>
 <b>VulnDump</b><br>
