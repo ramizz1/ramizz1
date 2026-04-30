@@ -1,9 +1,4 @@
 # Cybersecurity & Full-Stack Developer
-
-<blockquote>
-Building software. Pentest systems. Improving both.
-</blockquote>
-
 ---
 
 ## 🧩 Tech Identity
@@ -23,12 +18,8 @@ Building software. Pentest systems. Improving both.
 
 <p>
 eCPPTv3 Certified (INE)<br>
-Focus: Web & Mobile Development | Web Security | Pentesting<br>
-Interested in automation, security tools, and scalable systems
 </p>
-
 ---
-
 ## 🚀Main Projects
 
 <p>
