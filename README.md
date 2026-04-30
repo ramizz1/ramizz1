@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity & Full-Stack Developer
+# Cybersecurity & Full-Stack Developer
 
 <blockquote>
 Building software. Pentest systems. Improving both.
@@ -6,22 +6,22 @@ Building software. Pentest systems. Improving both.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <p>
-🌐 <b>Portfolio:</b> <a href="https://richardalmeyda.vercel.app/">Visit</a><br>
-✍️ <b>Blog:</b> <a href="https://medium.com/@RichardAlmeyda">Medium</a>
+<b>Portfolio:</b> <a href="https://richardalmeyda.vercel.app/">Visit</a><br>
+<b>Blog:</b> <a href="https://medium.com/@RichardAlmeyda">Medium</a>
 </p>
 
 <p>
-🎯 eCPPTv3 Certified (INE)<br>
-💻 Focus: Web & Mobile Development | Web Security | Pentesting<br>
-⚡ Interested in automation, security tools, and scalable systems
+eCPPTv3 Certified (INE)<br>
+Focus: Web & Mobile Development | Web Security | Pentesting<br>
+Interested in automation, security tools, and scalable systems
 </p>
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <p>
 <b>VulnDump</b><br>
@@ -35,8 +35,8 @@ Security testing & vulnerability research platform
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p>
-📩 <a href="mailto:RichardAlmeyda@proton.me">RichardAlmeyda@proton.me</a>
+<a href="mailto:RichardAlmeyda@proton.me">RichardAlmeyda@proton.me</a>
 </p>
