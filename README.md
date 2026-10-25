@@ -4,7 +4,6 @@
 
 <p>
 <b>Portfolio:</b> <a href="https://ram1z.vercel.app/">Visit</a><br>
-<b>TikTok</b> <a href="https://www.tiktok.com/@startupiq">TikTok</a>
 </p>
 
 <p>
